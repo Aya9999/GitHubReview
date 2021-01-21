@@ -1,7 +1,7 @@
 Answer the following, add your answer below each question:
 
 1- How many commits have been made to the repository you cloned?
-
+ 10
 2- How many branches does it have?
 
 3- What is the ID of the commit in which the author added styles?
